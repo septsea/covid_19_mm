@@ -1,0 +1,16 @@
+{
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "editor.wordWrap": "off",
+    "editor.minimap.enabled": false,
+    "window.title": "${dirty}${activeEditorShort}${separator}Arknights",
+    "cSpell.words": [
+        "gitee",
+        "septsea"
+    ],
+    "aiXcoder.localShowIncompleteSuggestions": true
+}
